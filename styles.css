@@ -1,0 +1,8 @@
+#Field{
+    border-style: inset;
+    border-color: black;
+    border-width: 3px;
+}
+body{
+    margin:0;
+}
